@@ -1,0 +1,9 @@
+package test;
+
+import beans.User;
+
+public class Test {
+public static void main(String[] args) {
+User user= new User("rkolan@gmail.com","abcd");
+}
+}

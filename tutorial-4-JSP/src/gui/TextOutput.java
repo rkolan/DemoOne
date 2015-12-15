@@ -1,0 +1,8 @@
+package gui;
+
+public class TextOutput {
+	public String getInfo(){
+		return " This is returned from GUI package.";
+	}
+
+}

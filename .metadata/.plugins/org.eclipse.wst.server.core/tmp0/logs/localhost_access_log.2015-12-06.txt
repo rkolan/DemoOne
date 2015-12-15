@@ -1,0 +1,14 @@
+127.0.0.1 - - [06/Dec/2015:11:45:11 -0500] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [06/Dec/2015:11:45:42 -0500] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [06/Dec/2015:11:48:36 -0500] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:11:48:37 -0500] "GET /Tutorial-3-Servlet/HelloWorld HTTP/1.1" 200 39
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:11:48:42 -0500] "GET /Tutorial-3-Servlet/HelloWorld HTTP/1.1" 200 39
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:11:48:42 -0500] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:11:53:27 -0500] "GET /Tutorial-3-Servlet/HelloWorld.html HTTP/1.1" 200 151
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:11:55:30 -0500] "GET /Tutorial-3-Servlet/HelloWorld.jsp HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:11:56:47 -0500] "GET /Tutorial-3-Servlet/HelloWorld.jsp HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:11:58:03 -0500] "GET /Tutorial-3-Servlet/HelloWorld.jsp HTTP/1.1" 200 308
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:12:00:52 -0500] "GET /Tutorial-3-Servlet/HelloWorld.jsp HTTP/1.1" 200 312
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:12:02:00 -0500] "GET /Tutorial-3-Servlet/HelloWorld.jsp HTTP/1.1" 200 314
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:12:02:18 -0500] "GET /Tutorial-3-Servlet/HelloWorld.jsp HTTP/1.1" 200 295
+0:0:0:0:0:0:0:1 - - [06/Dec/2015:12:04:36 -0500] "GET /Tutorial-3-Servlet/HelloWorld.jsp HTTP/1.1" 200 312
